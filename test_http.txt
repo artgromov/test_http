@@ -1,0 +1,6 @@
+---
+debug: False
+clear_dns_cache: True
+hosts:
+  - http://yandex.ru/
+  - http://google.com/
